@@ -1,2 +1,4 @@
-# aulas_javascript
-Introdução ao JavaScript
+# Aula estrutural Netflix
+
+### conceitos de estrutura do javascript e Jquery.
+
